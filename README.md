@@ -1,4 +1,8 @@
 <header>
+  COGS 108 lets goo!
+</header>
+
+<header>
 
 <!--
   <<< Author notes: Course header >>>
